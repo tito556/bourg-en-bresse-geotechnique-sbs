@@ -1,0 +1,52 @@
+# Geotechnique — Bourg-en-Bresse
+
+> Geotechnical engineering services in Bourg-en-Bresse, France.
+
+## Services
+- [Amelioration Sols](https://bourg-en-bresse.geotechnique.sbs/amelioration-sols/)
+- [Ancrages](https://bourg-en-bresse.geotechnique.sbs/ancrages/)
+- [Cbr Routier](https://bourg-en-bresse.geotechnique.sbs/cbr-routier/)
+- [Chaussee Rigide](https://bourg-en-bresse.geotechnique.sbs/chaussee-rigide/)
+- [Chaussee Souple](https://bourg-en-bresse.geotechnique.sbs/chaussee-souple/)
+- [Colonnes Ballastees](https://bourg-en-bresse.geotechnique.sbs/colonnes-ballastees/)
+- [Confidentialite](https://bourg-en-bresse.geotechnique.sbs/confidentialite/)
+- [Densite Cone Sable](https://bourg-en-bresse.geotechnique.sbs/densite-cone-sable/)
+- [Essai Cpt](https://bourg-en-bresse.geotechnique.sbs/essai-cpt/)
+- [Essais Proctor](https://bourg-en-bresse.geotechnique.sbs/essais-proctor/)
+- [Excavations](https://bourg-en-bresse.geotechnique.sbs/excavations/)
+- [Excavations Profondes](https://bourg-en-bresse.geotechnique.sbs/excavations-profondes/)
+- [Fondations](https://bourg-en-bresse.geotechnique.sbs/fondations/)
+- [Geotechnique Routiere](https://bourg-en-bresse.geotechnique.sbs/geotechnique-routiere/)
+- [Granulometrie](https://bourg-en-bresse.geotechnique.sbs/granulometrie/)
+- [Injections](https://bourg-en-bresse.geotechnique.sbs/injections/)
+- [Investigation](https://bourg-en-bresse.geotechnique.sbs/investigation/)
+- [Isolation Sismique](https://bourg-en-bresse.geotechnique.sbs/isolation-sismique/)
+- [Labo In Situ](https://bourg-en-bresse.geotechnique.sbs/labo-in-situ/)
+- [Laboratoire](https://bourg-en-bresse.geotechnique.sbs/laboratoire/)
+- [Limites Atterberg](https://bourg-en-bresse.geotechnique.sbs/limites-atterberg/)
+- [Liquefaction](https://bourg-en-bresse.geotechnique.sbs/liquefaction/)
+- [Masw](https://bourg-en-bresse.geotechnique.sbs/masw/)
+- [Microzonage Sismique](https://bourg-en-bresse.geotechnique.sbs/microzonage-sismique/)
+- [Murs Soutenement](https://bourg-en-bresse.geotechnique.sbs/murs-soutenement/)
+- [Permeabilite In Situ](https://bourg-en-bresse.geotechnique.sbs/permeabilite-in-situ/)
+- [Pieux](https://bourg-en-bresse.geotechnique.sbs/pieux/)
+- [Puits Inspection](https://bourg-en-bresse.geotechnique.sbs/puits-inspection/)
+- [Radiers](https://bourg-en-bresse.geotechnique.sbs/radiers/)
+- [Refraction Sismique](https://bourg-en-bresse.geotechnique.sbs/refraction-sismique/)
+- [Resistivite](https://bourg-en-bresse.geotechnique.sbs/resistivite/)
+- [Semelles](https://bourg-en-bresse.geotechnique.sbs/semelles/)
+- [Sismique](https://bourg-en-bresse.geotechnique.sbs/sismique/)
+- [Sondages Spt](https://bourg-en-bresse.geotechnique.sbs/sondages-spt/)
+- [Stabilite Talus](https://bourg-en-bresse.geotechnique.sbs/stabilite-talus/)
+- [Surveillance Excavations](https://bourg-en-bresse.geotechnique.sbs/surveillance-excavations/)
+- [Talus](https://bourg-en-bresse.geotechnique.sbs/talus/)
+- [Triaxial](https://bourg-en-bresse.geotechnique.sbs/triaxial/)
+- [Tunnels Sol Mou](https://bourg-en-bresse.geotechnique.sbs/tunnels-sol-mou/)
+- [Vibrocompactage](https://bourg-en-bresse.geotechnique.sbs/vibrocompactage/)
+
+## Contact
+- Website: https://bourg-en-bresse.geotechnique.sbs/
+
+## About
+This site provides geotechnical engineering services in Bourg-en-Bresse, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
